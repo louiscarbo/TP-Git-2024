@@ -15,11 +15,7 @@ def noms_binome():
     Attention, chacun écrit la ligne pour afficher son nom
     """
     print("Daniel")
-<<<<<<< HEAD
-    print("Yvan")
-=======
     print("Louis")
->>>>>>> 3b14a0a2caf630acfae36be29b091a1c4307e03a
 
 
 a = 2
